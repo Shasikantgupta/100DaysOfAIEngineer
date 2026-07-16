@@ -4,7 +4,7 @@ Welcome to my **100 Days of AI Engineer Challenge**.
 
 This repository documents my journey of becoming an AI Engineer through consistent daily learning, coding, and project building.
 
----
+--
 
 ## 🎯 Objectives
 
